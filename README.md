@@ -1,3 +1,7 @@
+# DiscoRF
+This repository is an implementation of **DiscoRF**, Discriminator with TensoRF. <br>
+**DiscoRF** is a TensoRF with GAN architecture. Codes are strongly based on TensoRF.
+
 # TensoRF
 ## [Project page](https://apchenstu.github.io/TensoRF/) |  [Paper](https://arxiv.org/abs/2203.09517)
 This repository contains a pytorch implementation for the paper: [TensoRF: Tensorial Radiance Fields](https://arxiv.org/abs/2203.09517). Our work present a novel approach to model and reconstruct radiance fields, which achieves super
